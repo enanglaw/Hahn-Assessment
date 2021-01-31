@@ -1,0 +1,15 @@
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.AssemblyInfoInputs.cache
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.AssemblyInfo.cs
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.deps.json
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\ref\Hahn.ApplicatonProcess.December2020.Domain.dll
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.pdb
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.runtimeconfig.json
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\bin\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.runtimeconfig.dev.json
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.genruntimeconfig.cache
+C:\Projects\HAHN TEST\Hahn.ApplicatonProcess.Application\Hahn.ApplicatonProcess.December2020.Domain\obj\Debug\net5.0\Hahn.ApplicatonProcess.December2020.Domain.csprojAssemblyReference.cache
